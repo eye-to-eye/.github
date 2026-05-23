@@ -12,4 +12,4 @@ Eye to Eye is a student-led organization building open-source tools, conducting 
 ## Open source
 Our tools are released under permissive licenses so any clinic, NGO, or researcher can use and build on them.
 
-📫 Contact: eyetoeyeproject@gmail.com
+📫 Contact: eyetoeyehealth@gmail.com
